@@ -1,5 +1,5 @@
 #agent: open_ai_agent   # or open_ai_chat_agent
-agent: TEST   # or open_ai_chat_agent
+agent: OPENAI   # or open_ai_chat_agent
 time_between_chat_messages_in_seconds: 300 
 
 LOGGING_LEVEL: INFO
